@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "unique-1",
+      "name": "Mustafa Murat Coşkun",
+      "salary": "5000",
+      "department": "Bilişim"
+    },
+    {
+      "name": "Kemalettin Taslak",
+      "salary": "3000",
+      "department": "Pazarlama 2",
+      "id": "unique-2"
+    },
+    {
+      "name": "Mehmet Biricik",
+      "department": "Pazarlama",
+      "salary": "6000",
+      "id": "2W2dzjZ"
+    },
+    {
+      "name": "Zeynep Değirmencioğlu",
+      "salary": "5000",
+      "department": "İnsan Kaynakları",
+      "id": "0HojoiW"
+    },
+    {
+      "name": "Murat Temel",
+      "department": "Pazarlama",
+      "salary": "3000",
+      "id": "GaG_hdC"
+    },
+    {
+      "name": "Mehmet Kandemir",
+      "salary": "5500",
+      "department": "Bilişim",
+      "id": "x89IYzM"
+    }
+  ]
+}
